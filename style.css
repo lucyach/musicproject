@@ -1,0 +1,87 @@
+h1 {
+    margin: 30px;
+}
+p {
+    margin: 30px;
+    display: flex;
+}
+h3 {
+    margin: 30px;
+}
+#randomButton {
+    margin: 30px;
+}
+img {
+    margin: 30px;
+    flex: 1;
+    width: 300px;
+    height: 300px;
+}
+#popPunkSongsList {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#EightiesPopSongsList {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#randomSongsList {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#frontPageBands {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#frontPageBands img {
+    width: 200px;
+    height: 200px;
+}
+
+#awards img {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#awardsCSS {
+    display: flex;
+}
+
+#awardsCSS p {
+    flex: 1;
+}
+
+#addButton {
+    margin: 30px;
+    display: inline-block;
+}
+
+.fa-plus-circle {
+    margin-left: 30px;
+    margin-right: 7px;
+    vertical-align: middle;
+}
+
+button {
+    border: 0px;
+    background-color: white;
+    border-style: none;
+}
+
+#clearButton {
+    margin: 30px;
+}
+
+#playlist {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#playlist p {
+    margin-left: 30px;
+}
